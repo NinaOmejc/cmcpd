@@ -1,0 +1,11 @@
+Link to access the example data:
+https://kt-cloud.ijs.si/index.php/s/adtKcQiKdKXRnGQ
+
+PDP06: example data from PD patients group
+PDH12: example data from healthy control group
+
+Download the data and put them in respective path:
+./cmcpd/data/raw/PDH12_IZO_EMG_EEG_realigned.mat
+./cmcpd/data/raw/PDP06_IZO_EMG_EEG_realigned.mat
+
+For further questions feel free to contact me at nina.omejc@ijs.si
