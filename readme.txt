@@ -1,3 +1,5 @@
+This repository contains code for corticomuscular phase connectivity analysis of EEG and EMG data during motor and cognitive tasks, done by patients with PD and healthy controls.
+
 Preprocessing part 
 
 First run preprocessing files inside "preprocessing" folder. The scripts should be ran as they are in the alphabetic order. 
